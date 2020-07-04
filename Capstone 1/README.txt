@@ -4,4 +4,4 @@ The Capstone Project 1 Final file is all the Pyton code that I worked with in Ju
 The Capstone Project written report pdf file is the detailed written report.
 The Capstone 1 slides pdf is a slide deck for presentation.
 
-Ultimately, we were able to find that Publication Year plays the biggest role in determining popularity for checked out items at the library.
+Ultimately, we initially conclude that Uber prices are cheaper than Lyft given what we studied. This can be further analyzed by studying time series and potential trends in that area.
